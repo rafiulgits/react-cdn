@@ -4,7 +4,7 @@
 </kbd>
 
 ***
-## [React JS Wiki - CDN Approach](https://github.com/rafiulgits/react-cdn/wiki)
+# React JS Wiki - CDN Approach
 ***
 #### [Geeting Started](https://github.com/rafiulgits/react-cdn/wiki/Getting-Started)
 How react work and basic setup for using React JS in CDN approach. React components types and there using approaches.
@@ -16,4 +16,9 @@ How react handle events in different approach. Also has a little bit concept abo
 #### [REST API and Listing](https://github.com/rafiulgits/react-cdn/wiki/REST-API-and-Listing)
 How to load json raw data using REST API call, setup the data as a list and render the items.
 ***
-
+#### [Life Cycle and Methods ](https://github.com/rafiulgits/react-cdn/wiki/Life-Cycle-and-Methods)
+React class component life cycle methods and their flow
+***
+#### [Form Handling](https://github.com/rafiulgits/react-cdn/wiki/Form-Handling)
+How to set value and collect the values from the form input block and handling the form submission.
+***
